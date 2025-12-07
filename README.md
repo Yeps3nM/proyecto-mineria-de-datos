@@ -8,6 +8,11 @@ Proyecto final del curso IIC2433 : Análisis de las temporadas 22-24 del equipo 
 1. Se hacen manualmente las tablas de excel, ya que la web de fref no tiene disponible la opción de exportar tablas. 
 2. Son 4 archivos (.xlsx) en el directorio datasets : `rm_liga_21.xlsx`, `rm_liga_22.xlsx` , `rm_liga_23.xlsx`, `rm_liga_24.xlsx`
 
+## Modelos utilizados 
+1. Regresión lineal múltiple
+2. Regresión Logística
+3. Xgboost classifier
+
 ## Integrantes 
 1. Vicente Muñoz 
 2. Francisca Yepsen
